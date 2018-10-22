@@ -11,6 +11,7 @@ Title: Dear Enemy
 Author: Jean Webster
 
 Release Date: July 3, 2008 [EBook #238]
+Last updated: November 14, 2015
 
 Language: English
 
@@ -128,7 +129,7 @@ that I was introducing a wolf into the fold. I reassured them as to his
 dogginess, and the watchman, after studying his black tongue, ventured a
 witticism. He wanted to know if I fed him on huckleberry pie.
 
-It was difficult to find accommodations for my family, Poor Sing was
+It was difficult to find accommodations for my family. Poor Sing was
 dragged off whimpering to a strange woodshed, and given a piece of
 burlap. Jane did not fare much better. There was not an extra bed in
 the building, barring a five-foot crib in the hospital room. She, as you
@@ -387,7 +388,7 @@ been my friends for many more years than you, and I have no intention
 of letting them go hang. I came up here in a spirit of--well, say
 adventure, and I must see the venture through. You wouldn't like me if
 I were a short sport. This doesn't mean, however, that I am sentencing
-myself for life; I am in tending to resign just as soon as the
+myself for life; I am intending to resign just as soon as the
 opportunity comes. But really I ought to feel somewhat gratified that
 the Pendletons were willing to trust me with such a responsible post.
 Though you, my dear sir, do not suspect it, I possess considerable
@@ -1384,14 +1385,14 @@ asylum teeming with hysterics. Our explosive doctor had paid us a visit.
 
 Sandy has two passions in life: one is for cod-liver oil and the other
 for spinach, neither popular in our nursery. Some time ago--before I
-came, in fact--he had ordered cod-liver oil for all {aenemic} of the{
-}--Heavens! there's that word again! {aneamic} --children, and had given
-instructions as to its application to Miss Snaith. Yesterday, in his
-suspicious Scotch fashion, he began nosing about to find out why the
-poor little rats weren't fattening up as fast as he thought they ought,
-and he un earthed a hideous scandal. They haven't received a whiff of
-cod-liver oil for three whole weeks! At that point he exploded, and all
-was joy and excitement and hysterics.
+came, in fact--he had ordered cod-liver oil for all of the
+{aenemic} --Heavens! there's that word again! {aneamic}--children, and
+had given instructions as to its application to Miss Snaith. Yesterday,
+in his suspicious Scotch fashion, he began nosing about to find out why
+the poor little rats weren't fattening up as fast as he thought they
+ought, and he unearthed a hideous scandal. They haven't received a whiff
+of cod-liver oil for three whole weeks! At that point he exploded, and
+all was joy and excitement and hysterics.
 
 Betsy says that she had to send Sadie Kate to the laundry on an
 improvised errand, as his language was not fit for orphan ears. By the
@@ -2663,7 +2664,7 @@ A man from the village is helping us out while we hopefully await the
 farmer of our dreams.
 
 I am sorry to have troubled you with our troubles. Tell Judy that she
-owes me a letter, and won't hear from until she has paid it. Your ob'd't
+owes me a letter, and won't hear from me until she has paid it. Your ob'd't
 servant,
 
 S. McBRIDE.
@@ -5146,7 +5147,7 @@ purpose to buy any daughter sight unseen. He will come and inspect the
 child in person at three o'clock on Wednesday next.
 
 Oh dear, if he shouldn't like her! We are now bending all our energies
-toward enhancing that child's beauty-like a pup bound for the dog
+toward enhancing that child's beauty--like a pup bound for the dog
 show. Do you think it would be awfully immoral if I rouged her cheeks a
 suspicion? She is too young to pick up the habit.
 
@@ -5530,7 +5531,7 @@ a dreadful time finding a sleeping place for that monkey, and Gordon
 proved with incontestable logic that, since he was presented to us by
 Jimmie, and Jimmie is Percy's friend, he should sleep with Percy. Gordon
 is a natural talker, and an audience affects him like champagne. He can
-argue with us much emotional earnestness on the subject of a monkey as
+argue with as much emotional earnestness on the subject of a monkey as
 on the greatest hero that ever bled for his country.
 
 I felt tears coming to my eyes when he described Java's loneliness as he
@@ -6625,7 +6626,7 @@ spent four months on Pansy, I suggested a change, and sent him home with
 head. He says that after reading Pansy, anything else seems tame. I
 am afraid I shall have to look about for some one a little more
 up-and-coming. But at least, compared with Sterry, Turnfelt is a
-scholard!
+scholar!
 
 And speaking of Sterry, he paid us a social call a few days ago, in
 quite a chastened frame of mind. It seems that the "rich city feller"
@@ -6838,7 +6839,7 @@ My love to the Pendletons.
 
 S. McB.
 
-P.S. Singapore ends his love to Togo, and is sorry he bit him on the
+P.S. Singapore sends his love to Togo, and is sorry he bit him on the
 ear.
 
 
@@ -7781,7 +7782,7 @@ With ten different kitchens to practice in, won't our children learn how
 to cook! I am already looking about for ten loving house mothers to put
 in charge. I think, in fact, I'll search for eleven, in order to have
 one for Sandy. He's as pathetically in need of a little mothering as
-any, of the chicks.
+any of the chicks.
 
 It must be pretty dispiriting to come home every night to the
 ministrations of Mrs. McGur-rk.
